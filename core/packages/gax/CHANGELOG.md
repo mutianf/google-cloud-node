@@ -5,6 +5,13 @@
 
 [1]: https://www.npmjs.com/package/gax-nodejs?activeTab=versions
 
+## [6.17.0](https://github.com/googleapis/google-cloud-node/compare/google-gax-v6.16.0...google-gax-v6.17.0) (2026-11-04)
+
+
+### Features
+
+* **gax:** Call logNetworkAttempt and logCall in createApiCall ([#9760](https://github.com/googleapis/google-cloud-node/issues/9760)) ([5cfe1b6](https://github.com/googleapis/google-cloud-node/commit/5cfe1b6251536a6b895b04632f4eab24bbda3f36))
+
 ## [6.16.0](https://github.com/googleapis/google-cloud-node/compare/google-gax-v6.15.0...google-gax-v6.16.0) (2026-11-02)
 
 
